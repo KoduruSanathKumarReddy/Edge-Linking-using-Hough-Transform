@@ -93,7 +93,7 @@ plt.show()
 
 
 ### Display the result of Hough transform
-![](houghTransform.png)
+![](hough2.png)
 
 
 ## Result:
